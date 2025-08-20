@@ -1,0 +1,19 @@
+# 🚀 GUÍA DE INSTALACIÓN Y ESTRUCTURA DEL PROYECTO
+
+## 📦 Instalación del Ambiente
+
+### 1. Activar el ambiente virtual
+# En Windows:
+env\Scripts\activate
+
+# En Linux/Mac:
+source env/bin/activate
+
+### 2. Instalar las dependencias
+pip install -r requirements.txt
+
+### 3. Verificar la instalación
+pip list
+pip show pandas numpy scipy scikit-learn pmdarima
+
+

@@ -1,0 +1,23 @@
+
+Requirements.txt
+
+Dame el código para exportar las librerías en un requirements.txt
+
+Observa esta lista de librerías para configurar el ambiente , es demasiado larga y usarla asi puede traer errores, vmaos a limpiarla de manera que solo qeudeb las librerías que explícitamente llamamos
+en los imports de todo el código del proyecto. Ten en cuenta especialmente de las versiones, en especial de estas:
+
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.11.4
+scikit-learn==1.3.2
+pmdarima==2.0.4
+
+Si no lo haces así podemos tener problemas de incompatibilidad.
+
+
+Genera un resumen ejecutivo (business oriented) sobre todo lo realiza en el notebook, destaca los insights importantes y explcia paso a paso las decisiones tomadas.
+
+Genera otro resumen pero sobre como reproducir el proyecto. 
+
+Explica como crear el ambiente y que contiene cada carpeta. 
+
